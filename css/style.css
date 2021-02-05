@@ -67,3 +67,25 @@ main {
   margin-top: 40px;
   padding-left: 10px;
 }
+
+/* Table */
+.table {
+  margin-top: 30px;
+}
+
+table .text {
+  width: 50%;
+}
+
+.align {
+  text-align: left;
+}
+
+table thead {
+  background-color: rgba(32, 169, 229, 255);
+  color: white;
+}
+
+.odd {
+  background-color: lightblue;
+}
