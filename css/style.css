@@ -1,0 +1,43 @@
+/* RESET */
+* {
+  margin: 0;
+}
+/* RESET ENDING */
+
+/* HEADER */
+header {
+  background-color: rgba(78, 160, 255, 255);
+  background-image: url(../img/pattern.png);
+}
+.container {
+  width: 1024px;
+  margin: auto;
+}
+
+.logo {
+  height: 90px;
+  margin-top: 40px;
+}
+/* HEADER ENDING */
+
+/* MAIN START */
+h1 {
+  font-size: 38px;
+}
+
+main {
+  margin-top: 20px;
+}
+
+.author {
+  color: grey;
+}
+
+.authorname {
+  color: lightblue;
+}
+
+.date {
+  color: grey;
+  font-size: 10px;
+}
